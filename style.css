@@ -1,0 +1,21 @@
+body{
+
+    margin: 0;
+    font-family: 'Roboto Slab', serif;
+    background: black;
+}
+.love{
+
+    width: 140px;
+    
+}
+
+
+.welcome{
+    min-height: 50vh;
+    justify-content: center;
+    text-align: center;
+    color: red;
+    font-size: 130px;
+
+}
